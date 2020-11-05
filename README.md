@@ -12,3 +12,5 @@
 
 **Step 4**
 - Create a Python class as Child of Snake
+
+````__name__```` and ```__main__``` are used to check if run from urrent file or a different file (imported)
